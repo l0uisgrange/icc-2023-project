@@ -1,4 +1,4 @@
-# World attack
+# Cleaner & fixers
 
 This is the spring 2023 semester project for the _Information, Computation and communication_ from [Prof. Ronan Boulic](https://people.epfl.ch/ronan.boulic). We used C++ to create a simulated game, displayed below.
 
