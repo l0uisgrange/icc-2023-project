@@ -7,7 +7,7 @@ This is the spring 2023 semester project for the _Information, Computation and c
 | [341237](https://people.epfl.ch/341237) | Louis Grange                       |
 | [340497](https://people.epfl.ch/340497) | Daniel Ataíde                 |
 
-https://github.com/user-attachments/assets/1bac66f0-abde-458c-89d5-ea63d5113ae1
+<img width="869" height="604" alt="Capture d’écran 2025-12-28 à 10 49 51" src="https://github.com/user-attachments/assets/5d3d7a0b-11db-47e3-8a29-2d561880f25e" />
 
 ## ⚙️ Quickstart
 
