@@ -1,0 +1,45 @@
+# test 45
+#
+# nombre de particules puis les données d’une particule par ligne
+
+# nbP
+27
+	-80 -80  61
+	-80 -30  19
+	-80  0   11
+	-80  30  25
+	-80  80  41
+	-40  -80 15
+	-40  80  14
+	-20  -40 27
+	0    -80 9
+	0    80  8
+	0    10   26
+	0    40  16
+	-40  0   31
+	-50  30  14
+	40   -80 29
+	30   40  23
+	30    0  8
+	30   70  12
+	40   100  20.5
+	30   -40  15.5
+	60   -20  19.5
+	60   10   25.5
+	80   -80 34
+	90   -30 24
+	100   0   14.5
+	80   30  10.2
+	95   95  40.5
+	
+# données du robot spatial
+# x y nbUpdate nbNr (en réserve) nbNs (en service) nbNd (détruits) nbRr (en réserve) nbRs (en service)
+
+60 60 0 4 0 0 2 0
+
+# données des nbRs robots réparateurs en service (un par ligne)
+
+
+	
+# données des nbNs robots neutraliseurs en service (un par ligne)
+
